@@ -1,0 +1,7 @@
+name: PluginHide
+version: '${version}'
+main: me.pessiuff.pluginhide.PluginHide
+api-version: '1.16'
+depend: [ProtocolLib]
+authors: [pessiuff]
+description: Hide your plugins from clients using packets.
